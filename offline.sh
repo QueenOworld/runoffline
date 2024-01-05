@@ -15,7 +15,7 @@
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 usage() {
-    echo "Usage: [OPTIONS] $#"
+    echo "Usage: offline [OPTIONS] $#"
     echo "Options:"
     echo " -h, --help   Display this help message"
     echo " -r, --root   Run as root without the use of: su $USER -c $#"
