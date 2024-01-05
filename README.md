@@ -1,6 +1,8 @@
 # runoffline
 Bash script that lets you run commands in an offline network namespace
 
+![demo video](assets/demo.gif)
+
 ## Usage
 ```bash
 $ ./offline.sh
